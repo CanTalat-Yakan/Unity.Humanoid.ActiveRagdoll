@@ -1,0 +1,14 @@
+{
+    "name": "UnityEssentials.HumanoidActiveRagdoll.Editor",
+    "rootNamespace": "UnityEssentials",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
