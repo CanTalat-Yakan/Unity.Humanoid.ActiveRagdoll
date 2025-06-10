@@ -4,7 +4,7 @@
   "displayName": "UnityEssentials HumanoidActiveRagdoll",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "2022.1",
-  "unityRelease": null,
+  "unityRelease": "",
   "dependencies": {
     "com.unityessentials.core": "1.0.0"
   },
