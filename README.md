@@ -28,7 +28,7 @@ Install the Unity Essentials entry package via Unity's Package Manager, then ins
 
 > Quick overview: Physics-driven “active ragdoll” that follows an animation using a simple PD controller and ConfigurableJoints. It can temporarily weaken on collisions and then recover, giving natural, reactive motion.
 
-A compact, dependency-free system for reactive humanoids: a ragdoll (“slave”) tracks an animated hierarchy (“master”) via PD forces and joint slerp drives, weakens on contact for believable impacts, and smoothly regains strength—ideal for physics-augmented characters and dynamic hit reactions.
+A compact, dependency-free system for reactive humanoids: a ragdoll (“slave”) tracks an animated hierarchy (“master”) via PD forces and joint slerp drives, weakens on contact for believable impacts, and smoothly regains strength - ideal for physics-augmented characters and dynamic hit reactions.
 
 ![screenshot](Documentation/Screenshot.png)
 
@@ -49,7 +49,7 @@ A compact, dependency-free system for reactive humanoids: a ragdoll (“slave”
   - No Animator rig constraints required; works with any matching transform hierarchies
 
 ## Requirements
-- Unity Editor 6000.0+ (per package manifest)
+- Unity Editor 6000.0+
 - Two matching humanoid hierarchies:
   - Master (animated/kinematic) hierarchy
   - Slave (ragdoll) hierarchy with Rigidbody + ConfigurableJoint per limb (hips/root without joint)
